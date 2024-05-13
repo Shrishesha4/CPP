@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 
-// Base class Patient
 class Patient {
 public:
     std::string pat_name;
